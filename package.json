@@ -1,0 +1,12 @@
+{
+  "name": "getting-started-with-broccoli",
+  "version": "0.0.0",
+  "description": "Simple Broccoli example",
+  "dependencies": {
+    "broccoli-uglify-js": "^0.1.1",
+    "broccoli": "^0.4.1",
+    "broccoli-traceur": "^0.1.0"
+  },
+  "author": "me@moudy.me",
+  "license": "MIT"
+}
